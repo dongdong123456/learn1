@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>UP01_027WL_SC01_EEEEEEEEEEEE_20211124030138725_0001_1110578996_GR_00_2.jpg</filename>
+	<path>E:\BaiduNetdiskDownload\ICR_EXT\1\UP01_027WL_SC01_EEEEEEEEEEEE_20211124030138725_0001_1110578996_GR_00_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>802</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>175</ymin>
+			<xmax>798</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+</annotation>
